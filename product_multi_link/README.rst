@@ -2,11 +2,11 @@
    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
    :alt: License: AGPL-3
 
-==================
-Product Multi Link
-==================
+==============================
+Product Multi Links (Variants)
+==============================
 
-This module adds links between products:
+This module adds links between product variants:
 
 - cross-selling
 - up-selling
@@ -17,11 +17,20 @@ These types of links are common in e-commerce shops.
 It can be used as a base to implement synchronizations with
 e-commerce (for instance, it is used in magentoerpconnect).
 
-* Go to ...
+If you want to manage link between product templates (instead of product
+variants), you can use the other OCA module product_template_multi_link.
+(Same e-commerce repository)
+
+Usage
+=====
+
+To use this module, you need to:
+
+#. Go to Sale > Configuration > Products > Product Links
 
 .. image:: https://odoo-community.org/website/image/ir.attachment/5784_f2813bd/datas
    :alt: Try me on Runbot
-   :target: https://runbot.odoo-community.org/runbot/113/9.0
+   :target: https://runbot.odoo-community.org/runbot/113/10.0
 
 Bug Tracker
 ===========
