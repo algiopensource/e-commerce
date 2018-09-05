@@ -8,6 +8,7 @@ Odoo E-Commerce Modules
 Modules aiming to support e-commerce specific needs. This includes all the new website_sale related modules included in version 8.0.
 
 [//]: # (addons)
+
 Available addons
 ----------------
 addon | version | summary
@@ -27,6 +28,7 @@ addon | version | summary
 [website_sale_require_legal](website_sale_require_legal/) | 8.0.1.1.0 | Force the user to accept legal tems to buy in the web shop
 [website_sale_require_login](website_sale_require_login/) | 8.0.1.0.0 | Force users to login for buying
 [website_sale_suggest_create_account](website_sale_suggest_create_account/) | 8.0.1.0.0 | Suggest users to create an account when buying in the website
+
 
 Unported addons
 ---------------
